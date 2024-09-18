@@ -19,6 +19,10 @@ Note that the working links are as follows:
 3. Post1 (By clicking on the Read More button, links on "Popular Posts" on the sidebar, or by clicking the image at the "Featuared" section on the Home pag.
 4. Post2
 
+Media Queries were used to make sure the site was responsive to different devices
+
+![image](https://github.com/user-attachments/assets/5d4c5506-9d6f-4092-b7c4-0e506669b6d2)
+
 References:
 - Media Queries: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries
 - Media Queries: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries
