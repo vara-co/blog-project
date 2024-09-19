@@ -1,6 +1,8 @@
 # blog-project
 Udacity - Personal Blog Project
 
+Link to live website: https://blog-project-gamma-blue.vercel.app/index.html 
+
 This project consists of creating a blog post using HTML and CSS flexbox and grid.
 This project includes the HTML Semantics:
 - header
