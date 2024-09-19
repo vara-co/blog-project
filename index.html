@@ -21,56 +21,58 @@
 <body>
     <div class="index-container">
         <!--Navigation Menu Section-->
-        <nav class="navbar">
-            <ul class="menu">
-                <!--Adding the menu to the left side-->
-                <div class="nav-menu">
-                    <li>
-                        <a href="#home">Home</a>
-                    </li>
-                    <li>
-                        <a href="/static/pages/blog.html">Blog</a>
-                    </li>
-                    <li>
-                        <a href="#about">About</a>
-                    </li>
-                    <li>
-                        <a href="#contact">Contact</a>
-                    </li>
-                </div>
-                <!--Adding socials at end of navbar-->
-                <div class="menu-socials">
-                    <li>
-                        <a href="https://www.facebook.com/" target="_blank">
-                            <i class="fa-brands fa-facebook"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://x.com/kirin_developer" target="_blank">
-                            <i class="fa-brands fa-x-twitter"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://www.instagram.com/" target="_blank">
-                            <i class="fa-brands fa-instagram"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://www.linkedin.com/in/laura-vara-co/" target="_blank">
-                            <i class="fa-brands fa-linkedin"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/vara-co" target="_blank">
-                            <i class="fa-brands fa-github"></i>
-                        </a>
-                    </li>
-                </div>
-            </ul>
-        </nav>
+        <header class="index-header">
+            <nav class="navbar">
+                <ul class="menu">
+                    <!--Adding the menu to the left side-->
+                    <div class="nav-menu">
+                        <li>
+                            <a href="#home">Home</a>
+                        </li>
+                        <li>
+                            <a href="/static/pages/blog.html">Blog</a>
+                        </li>
+                        <li>
+                            <a href="#about">About</a>
+                        </li>
+                        <li>
+                            <a href="#contact">Contact</a>
+                        </li>
+                    </div>
+                    <!--Adding socials at end of navbar-->
+                    <div class="menu-socials">
+                        <li>
+                            <a href="https://www.facebook.com/" target="_blank">
+                                <i class="fa-brands fa-facebook"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://x.com/kirin_developer" target="_blank">
+                                <i class="fa-brands fa-x-twitter"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com/" target="_blank">
+                                <i class="fa-brands fa-instagram"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/in/laura-vara-co/" target="_blank">
+                                <i class="fa-brands fa-linkedin"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/vara-co" target="_blank">
+                                <i class="fa-brands fa-github"></i>
+                            </a>
+                        </li>
+                    </div>
+                </ul>
+            </nav>
+        </header>
     
         <!--Avatar Image and Bio-->
-        <div class="avatar-bio">
+        <section class="avatar-bio">
             <div class="index-title">
                 <h1>Welcome to Missha's Website</h1>
                 <h3>From Farming to Software Engineering</h3>
@@ -90,14 +92,14 @@
 
                 </p>
             </div>
-        </div>
+        </section>
     
         <!-- Featured Section -->
-        <div class="scroll">
+        <section class="scroll">
             <div class="featured-title">
             <h2>Featured Blog Posts</h2>
             </div>
-            <div class="featured-images">
+            <figure class="featured-images">
                 <a href="/static/blogpost/post1.html">
                     <img src="/static/images/HelloWorldPost_sq.jpg" alt="Feature Post 1">
                 </a>
@@ -108,19 +110,19 @@
                     <img src="/static/images/TheStructurePost_sq.jpg" alt="Feature Post 3">
                 </a>
                 <a href="/static/blogpost/post4.html">
-                    <img src="/static/images/StylingCSSPost_sq.jpg" alt="Feature Post 3">
+                    <img src="/static/images/StylingCSSPost_sq.jpg" alt="Feature Post 4">
                 </a>
                 <a href="/static/blogpost/post5.html">
-                    <img src="/static/images/AligningWithFlexboxPost_sq.jpg" alt="Feature Post 3">
+                    <img src="/static/images/AligningWithFlexboxPost_sq.jpg" alt="Feature Post 5">
                 </a>
                 <a href="/static/blogpost/post6.html">
-                    <img src="/static/images/FunContainersGridPost_sq.jpg" alt="Feature Post 3">
+                    <img src="/static/images/FunContainersGridPost_sq.jpg" alt="Feature Post 6">
                 </a>
-            </div>
-        </div>
+            </figure>
+        </section>
 
         <!-- Subscribe section -->
-        <div class="newsletter-index">
+        <section class="newsletter-index">
             <h3>Subscribe to our Newsletter</h3>
             <hr>
             <br>
@@ -128,7 +130,7 @@
                 <input type="email" placeholder="Enter your email" required>
                 <button type="submit">Subscribe</button>
             </form>
-        </div>
+        </section>
 
         <!--Footer Section with Copyright legend and Socials-->
         <footer>

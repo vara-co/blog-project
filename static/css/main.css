@@ -81,6 +81,14 @@
     text-align: center; 
 }
 
+.caption {
+    font-size: 11px;
+    color: #828782; /* Light gray for caption text */
+    margin-bottom: 15px;
+    font-style: italic; /* Italicizes the caption for emphasis */
+    text-align: center; /* Centers the caption text */
+  }
+
 .bento-item p {
     margin-bottom: 15px;
     color: #555;
