@@ -2,16 +2,29 @@
 Udacity - Personal Blog Project
 
 This project consists of creating a blog post using HTML and CSS flexbox and grid.
+This project includes the HTML Semantics:
+- header
+- article
+- section
+- footer
+
+And for the images:
+- figure
+- figcaption
 
 My main page looks like this:
 ![image](https://github.com/user-attachments/assets/ebe70bdd-e71d-4e48-ac86-b3f309bda733)
 
 That links to the "Blog" page which looks like this:
-![image](https://github.com/user-attachments/assets/f5e1b6dd-c7e6-4fc1-9b1e-3342ff4282ad)
+![image](https://github.com/user-attachments/assets/d539e7b3-2a04-4709-a032-3d13c87bbe13)
+
+The blog page also includes a footer:
+![image](https://github.com/user-attachments/assets/62645041-5b3a-4312-8982-873f7b82812a)
 
 My blog post has all the requirements:
-![image](https://github.com/user-attachments/assets/42dd08e9-6d4a-4d41-b787-c083264af6ba)
-![image](https://github.com/user-attachments/assets/8a95e607-72e2-4b55-9129-da799e04e03d)
+![image](https://github.com/user-attachments/assets/4745a50d-6759-44e6-b47f-f8c8f95f0329)
+![image](https://github.com/user-attachments/assets/9e688507-53be-438a-a6c6-9f4856e286ab)
+![image](https://github.com/user-attachments/assets/105d5e7c-0193-484a-a4b5-82ec7c995ce7)
 
 Note that the working links are as follows:
 1. Home
