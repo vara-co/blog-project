@@ -83,10 +83,10 @@
 
 .caption {
     font-size: 11px;
-    color: #828782; /* Light gray for caption text */
+    color: #828782; 
     margin-bottom: 15px;
-    font-style: italic; /* Italicizes the caption for emphasis */
-    text-align: center; /* Centers the caption text */
+    font-style: italic; 
+    text-align: center;
   }
 
 .bento-item p {
