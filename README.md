@@ -1,5 +1,8 @@
-# blog-project
-Udacity - Personal Blog Project
+<h1 align="center">UDACITY Front End Web Development Nanodegree<br/>
+Project 2: Personal Blog Project </h1>
+<h2 align="center">Using HTML, and CSS(Flexbox/Grid/Media Queries)<br/>
+<br/>
+by Laura Vara</h2><br/>
 
 Link to live website: https://blog-project-gamma-blue.vercel.app/index.html 
 
